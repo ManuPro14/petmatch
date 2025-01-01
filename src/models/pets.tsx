@@ -1,0 +1,5 @@
+export const pets = [
+  { id: '1', name: 'Buddy', age: '2 years', image: 'https://images.ecestaticos.com/h34TvzTFVdrau9Un4Wdmwhed_e4=/0x115:2265x1390/1200x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F8ec%2F08c%2F85c%2F8ec08c85c866ccb70c4f1c36492d890f.jpg', description: 'Buddy is a very playful dog, he loves to play with his toys and go for a walk.' },
+  { id: '2', name: 'Charlie', age: '1 year', image: 'https://www.nunpet.es/blog/wp-content/uploads/2023/08/5-razas-populares-perros-labrador-pastor-aleman.webp', description: 'Charlie is a very friendly dog, he loves to play with children and other dogs.' },
+  { id: '3', name: 'Max', age: '3 years', image: 'https://www.ngenespanol.com/wp-content/uploads/2023/12/descubren-que-los-humanos-influimos-en-el-color-de-ojos-de-los-perros.jpg', description: 'Max is a very calm dog, he loves to sleep and eat.' },
+];
